@@ -1,16 +1,22 @@
 <h2> Hi there 👋, I'm Emma ! <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="70"></h2>
 
-<p><em>Remote Full-stack web developer studying at Microverse </em><img src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer ready for new challenges and opportunities </em><img src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="65"></p>
 
+### Important things about me 👩🏽
 
-Here are some ideas to get you started:
+* I am a full stack developer and part-time TSE at Microverse 👨🏽‍💻
+* I love reading novels, programming, maths and travelling 😎
+* Impacting people's lives and minds as a Tech girl is my main goal 👨🏽‍💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Other things include:
+
+- 🔭 I’m currently working on new things 
+- 🌱 I’m currently learning software development at ![](https://img.shields.io/badge/Microverse-blueviolet) 👨🏽‍💻
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with senior web developers
+- 💬 Ask me about anything and I will help you sort it out 💪🏽😉
+- 📫 How to reach me: Through emmanuellekamwa@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like cracking jokes with people 😁
+
+<h2> You can follow me on social media too <img src="https://media.giphy.com/media/3QwogXfR2vfZS/giphy.gif" width="70"></h2>
