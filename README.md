@@ -1,7 +1,6 @@
-### Hi there 👋
+#<h2> Hi there 👋, I'm Emma ! <img src="https://media.giphy.com/media/amLKBCjdSLVfYAzwzH/giphy.gif" width="70"></h2>
+### Welcome to my profile 😊
 
-<!--
-**emmanuellekamwa/emmanuellekamwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
