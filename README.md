@@ -19,4 +19,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like cracking jokes with people 😁
 
-<h2> You can follow me on social media too <img src="https://media.giphy.com/media/3QwogXfR2vfZS/giphy.gif" width="70"></h2>
+<h2> You can follow me on social media too <img src="https://media.giphy.com/media/3QwogXfR2vfZS/giphy.gif" width="80"></h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuelle-alix-kamwa-86145a1a4/)](https://www.linkedin.com/in/emmanuelle-alix-kamwa-86145a1a4/)
+
+[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlixKamwa)](https://twitter.com/AlixKamwa)
