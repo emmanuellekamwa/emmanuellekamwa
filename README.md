@@ -1,4 +1,4 @@
-#<h2> Hi there 👋, I'm Emma ! <img src="https://media.giphy.com/media/amLKBCjdSLVfYAzwzH/giphy.gif" width="70"></h2>
+#<h2> Hi there 👋, I'm Emma ! <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif" width="70"></h2>
 ### Welcome to my profile 😊
 
 
