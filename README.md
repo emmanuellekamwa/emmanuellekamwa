@@ -21,6 +21,6 @@
 
 <h2> You can follow me on social media too <img src="https://media.giphy.com/media/3QwogXfR2vfZS/giphy.gif" width="80"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuelle-alix-kamwa-86145a1a4/)](https://www.linkedin.com/in/emmanuelle-alix-kamwa-86145a1a4/)
+<a target ="_blank" href="https://www.linkedin.com/in/emmanuelle-alix-kamwa-86145a1a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlixKamwa)](https://twitter.com/AlixKamwa)
+<a target="_blank" href="https://twitter.com/AlixKamwa"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
